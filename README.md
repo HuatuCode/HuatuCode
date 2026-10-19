@@ -1,7 +1,7 @@
 ## Hola, soy Carlos Alejandro Molina Huatuco 👋
 
-### Estudiante de Ciencias de la computación | Aspirante a Data Engineer
-![](https://komarev.com/ghpvc/?username=Amolihua&color=0069b4)
+### Estudiante de Ciencias de la Computación
+![](https://komarev.com/ghpvc/?username=HuatuCode&color=0069b4)
 
 <table>
   <tr>
